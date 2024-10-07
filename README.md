@@ -13,7 +13,6 @@
 <span>
   <a href="mailto:neum9014@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;"/>
-    neum9014@gmail.com
   </a>
 </span>
 
