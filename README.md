@@ -2,7 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfis9014)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wfis9014)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wfis9014)](https://github.com/anuraghazra/github-readme-stats)
+
 <span>
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;"/>
