@@ -12,9 +12,9 @@
 
 <span>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white" alt="Gmail(neum9014@gmail.com)" style="vertical-align: middle;"/>
   </a>
-  <span style="vertical-align: middle; margin-left: 5px;">neum9014@gmail.com</span>
+  <span style="vertical-align: middle; margin-left: 5px;">
 </span>
 
 
